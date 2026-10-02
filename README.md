@@ -18,7 +18,7 @@ This project is part of my **60-Day Python Project Challenge**, where I am build
 
 ## 📸 CLI Preview
 
-![Terminal Gambling](Screenshot (462).png)
+![Terminal Gambling](Screenshot20%(462).png)
 
 ## ⚙️ Features
 
