@@ -5,9 +5,9 @@ def NumGuess():
     score = 0
     while True:
         if num_of_trys > 0:
-            secret_num = random.randint(1,100)
+            secret_num = random.randint(1,10)
             print("🔐 Target Locked...")
-            print("🧠 Can you guess the secret number")
+            print("🧠 Can you guess the secret number (1-10)")
             try:
                 prompt = input("Enter your guess: ")
                 prompt = int(prompt)
